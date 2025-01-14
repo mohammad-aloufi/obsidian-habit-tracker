@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-YYYY HH-MM A",
+  "template": "templates/habit template.md",
+  "folder": "habits",
+  "autorun": false
+}

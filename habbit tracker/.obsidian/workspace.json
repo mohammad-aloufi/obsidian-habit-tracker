@@ -1,0 +1,371 @@
+{
+  "main": {
+    "id": "b00f2ae2d17245cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c42e1e034dda5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e1fb97f3258bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "0c5f8a6202e0419a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "7d4248d628b74ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "11ca121f9fc69188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "f1f44c84255885fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "f5fd4bb21461f562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "771e8ff7c15f9d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "0d8dc777f4dd079f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "50730c316ed95e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "3ddc3dc4b213a366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "ad088e306bb04a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "4d95aa540ae147d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "9b0a4df974ec60ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "412f47dda0b0e43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a9239549d210a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "17feceaa8cfe2dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "989f94509897e71d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e4cc4c9b9ccf591",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d21796c157decd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b2dc1d23e6c5012",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb84ac781c3e52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a72de12e9943db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "c438b44a1a298874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "424ddac085cccb8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a8fb97c8da01496",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "412f47dda0b0e43f",
+  "lastOpenFiles": [
+    "habits/14-01-2025 07-05 AM.md",
+    "dashboard.md",
+    "14-01-2025 07-00 AM.md",
+    "Untitled 1.md",
+    "habits/14-01-2025 06-01 AM.md",
+    "habits/meh.md",
+    "habits",
+    "Daily Notes/meh.md",
+    "Daily Notes/meh2.md",
+    "Daily Notes/test.md",
+    "Daily Notes/2025-01-12.md",
+    "dashboard - Copy.md",
+    "Daily Notes/2025-12-01.md",
+    "test.md",
+    "Daily Notes/12-01-2025.md",
+    "Daily Notes",
+    "Dashboard.md",
+    "templates",
+    "Welcome.md"
+  ]
+}
